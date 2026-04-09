@@ -1,0 +1,8 @@
+## Interface: 120000
+## Title: corHide
+## Notes: Hides UI frames when not in combat, not targeting an attackable unit, and not grouped or instanced.
+## Version: 1.0
+## SavedVariables: corHideDB
+
+corHide.lua
+corHide_GUI.lua
